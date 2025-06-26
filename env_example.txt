@@ -1,9 +1,6 @@
-# OpenAI API Configuration
-OPENAI_API_KEY=your_openai_api_key_here
-
-# Custom API Configuration (Psitron Tech)
-CUSTOM_API_ENDPOINT=https://api.generate.engine.psitrontech.com/v2/llm/invoke
-CUSTOM_API_KEY=your_openai_api_key_here
+# Custom API Configuration
+CUSTOM_API_ENDPOINT= your_endpoint_here
+CUSTOM_API_KEY=your_api_key_here
 
 # Flask Configuration
 FLASK_ENV=development
