@@ -1,0 +1,7 @@
+flask
+chromadb
+fastembed
+openai
+PyPDF2
+python-dotenv
+requests 
